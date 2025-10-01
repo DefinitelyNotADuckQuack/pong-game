@@ -3,6 +3,8 @@
 A recreation of the classic **Pong** game built with Python's built-in `turtle` graphics library.  
 Two players can control paddles and compete to keep the ball in play. Points are awarded when the opponent misses the ball.
 
+![Pong](pong.png)
+
 ## Features
 - Classic Pong mechanics
 - Two-player controls:
